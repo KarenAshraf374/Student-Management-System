@@ -1,5 +1,5 @@
 # Student Management System
-A modular console application designed to automate school administration, tracking student lifecycles, faculty assignments, and course enrollments. Built with a strong focus on relational data integrity and clean code architecture.
+A robust, console-based desktop application designed to streamline educational administration by managing student records, course offerings, and faculty assignments. Built with a focus on data integrity and modular software design, the system provides real-time search, multi-criteria filtering, and secure entity tracking.
 
 # Key Features
 1- Comprehensive CRUD Operations: Full lifecycle management for Students, Courses, Teachers, and Managers.
